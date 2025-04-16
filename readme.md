@@ -1,1 +1,1 @@
-mrz626.github.io/ZenithClicker/
+https://mrz626.github.io/ZenithClicker/
